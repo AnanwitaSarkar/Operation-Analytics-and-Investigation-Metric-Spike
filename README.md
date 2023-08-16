@@ -76,5 +76,3 @@ Contributions to this project are welcome! If you find issues, have suggestions,
 ---
 
 By performing in-depth analytics and investigations on operational metrics using SQL, this project aims to provide valuable insights that can drive data-driven decision-making and improve various aspects of the business.
-
-Feel free to customize the README further to match your project's structure and context.
